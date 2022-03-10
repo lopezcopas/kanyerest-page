@@ -1,3 +1,4 @@
 #Kanye REST Quotes
 
-LIVE: kopasu.com/projects/kanyerest
+LIVE: 
+https://kopasu.com/projects/kanyerest
